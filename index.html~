@@ -3,25 +3,30 @@
   <head>
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/main.css" rel="stylesheet">
-    <title>Coding course</title>
+    <title>DGK</title>
   </head>
 
   <body class="landing-page-dgk">
-    <!--<div class='container'>-->
+    <div class='container'>
     <div class='hero-unit'>
-      <h1>The Oxford Coding Course DGK </h1>
-      <p>Life's a beach.</p>
-      
-      <!--<br/>-->
-      <!--<br/>-->
-
-      <!--<p class='action'>-->
-      <!--<a href="form.html" class ="btn btn-success btn-large">-->
-        <!--Register now-->
-      <!--</a>-->
-      <!--</p>-->
-
+	    <h1>Dane, George and Kieran </h1>
+	    <p> Life's a beach.</p>
     </div>
-  <!--</div>-->
+
+	<div class='row'>
+		<div class='span3'>
+			<h2>First little box</h2>
+			<p> Some content for the first little box</p>
+		</div>
+		<div class='span4'>
+			<h2>Second little box</h2>
+			<p> Some content for the first little box</p>
+		</div>
+		<div class='span4'>
+			<h1>Third little box</h2>
+		</div>
+	</div>
+	</div>
+</div>
   </body>
 </html>

@@ -7,21 +7,27 @@ body.landing-page, body.signup-page {
   background-size: 100%;
 }
 
-body.landing-page-dgk, {
+body.landing-page-dgk {
   background: url(../assets/beach.jpg) no-repeat center center fixed;
   background-size: 100%;
 }
 
-.hero-unit, .signup-form-unit {
+.hero-unit, .signup-form-unit, .span4 {
   background-color: rgba(240, 240, 240, 0.8);
 }
-
 
 .signup-page form input {
   height: 30px;
 }
 
-/*p.action {*/
-  /*text-align: center;*/
-/*}*/
+p.action {
+  text-align:center;
+}
 
+h1.action {
+  text-align:center;
+}
+
+.span4 {
+	background-clip: border-box;
+}
