@@ -14,7 +14,7 @@
     </div>
 
 	<div class='row'>
-		<div class='span3'>
+		<div class='span4'>
 			<h2>First little box</h2>
 			<p> Some content for the first little box</p>
 		</div>
