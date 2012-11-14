@@ -8,7 +8,7 @@ body.landing-page, body.signup-page {
 }
 
 body.landing-page-dgk {
-  background: url(../assets/beach.jpg) no-repeat center center fixed;
+  background: url(../assets/landingpagebg.jpg) no-repeat center center fixed;
   background-size: 100%;
 }
 
