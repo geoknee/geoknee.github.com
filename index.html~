@@ -36,12 +36,18 @@
 		</div>
 	</div>
 		<div class='span4'>
+<<<<<<< HEAD
 			<h2>Food</h2>
 		<div class='thumbnail'>
 					<img src="clipart/pizza.png" alt="Pizza" width="150" />
 					<p>Where can I get a kebab?</p>
+=======
+			<h1>Third little box</h2>
+			<p> This is my second vim sentence</p>
+>>>>>>> 5ecf16d45446776d488d63f32312db6be5bea0e2
 		</div>
 	</div>
+	<div class="span4">
 			<h2>Transport</h2>
 		<div class='thumbnail'>
 					<img src="clipart/taxi.png" alt="Taxi" width="150" />
